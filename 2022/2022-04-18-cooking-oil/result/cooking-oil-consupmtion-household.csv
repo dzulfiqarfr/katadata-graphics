@@ -1,0 +1,514 @@
+region,province,island_group,year,consumption_hh,expenditure_hh
+Simeulue,Aceh,Sumatera,2021,0.5922,7765.128
+Aceh Singkil,Aceh,Sumatera,2021,1.2054,13809.348
+Aceh Selatan,Aceh,Sumatera,2021,1.1885999999999999,13085.310000000001
+Aceh Tenggara,Aceh,Sumatera,2021,0.9702000000000001,14479.332
+Aceh Timur,Aceh,Sumatera,2021,0.9660000000000001,12392.310000000001
+Aceh Tengah,Aceh,Sumatera,2021,1.1424,14510.496000000001
+Aceh Barat,Aceh,Sumatera,2021,1.0164,12874.008
+Aceh Besar,Aceh,Sumatera,2021,0.7518,10721.508
+Aceh Utara,Aceh,Sumatera,2021,0.8400000000000001,8214.234
+Bireuen,Aceh,Sumatera,2021,0.798,10380.762
+Aceh Barat Daya,Aceh,Sumatera,2021,0.9660000000000001,10829.910000000002
+Pidie,Aceh,Sumatera,2021,0.9576000000000001,11531.982
+Gayo Lues,Aceh,Sumatera,2021,1.092,15634.458
+Aceh Tamiang,Aceh,Sumatera,2021,1.1214000000000002,11979.534
+Nagan Raya,Aceh,Sumatera,2021,1.1088,13750.800000000001
+Aceh Jaya,Aceh,Sumatera,2021,0.9912,12380.34
+Bener Meriah,Aceh,Sumatera,2021,0.9492,12422.928000000002
+Pidie Jaya,Aceh,Sumatera,2021,1.0122,13255.830000000002
+Kota Banda Aceh,Aceh,Sumatera,2021,0.9114,13188.966
+Kota Sabang,Aceh,Sumatera,2021,0.8904,12620.789999999999
+Kota Langsa,Aceh,Sumatera,2021,1.0584,12699.204
+Kota Lhokseumawe,Aceh,Sumatera,2021,0.9072,12054.42
+Kota Subulussalam,Aceh,Sumatera,2021,1.1718000000000002,13088.922
+Nias,Sumatera Utara,Sumatera,2021,0.731,9847.516
+Mandailing Natal,Sumatera Utara,Sumatera,2021,0.9201999999999999,12069.713
+Tapanuli Selatan,Sumatera Utara,Sumatera,2021,0.9718,12615.684
+Tapanuli Tengah,Sumatera Utara,Sumatera,2021,0.9933,12018.671999999999
+Tapanuli Utara,Sumatera Utara,Sumatera,2021,1.1696,14731.284
+Toba Samosir,Sumatera Utara,Sumatera,2021,1.0534999999999999,13926.581999999999
+Labuhan Batu,Sumatera Utara,Sumatera,2021,0.9417,12723.657
+Asahan,Sumatera Utara,Sumatera,2021,1.1653,14862.820999999998
+Simalungun,Sumatera Utara,Sumatera,2021,1.2469999999999999,15599.884
+Dairi,Sumatera Utara,Sumatera,2021,0.9158999999999999,11914.181999999999
+Karo,Sumatera Utara,Sumatera,2021,1.2469999999999999,17398.746
+Deli Serdang,Sumatera Utara,Sumatera,2021,1.2771,14976.9
+Langkat,Sumatera Utara,Sumatera,2021,1.1825,14148.505
+Nias Selatan,Sumatera Utara,Sumatera,2021,0.7783,11131.023
+Humbang Hasundutan,Sumatera Utara,Sumatera,2021,1.0793,13782.317
+Pakpak Bharat,Sumatera Utara,Sumatera,2021,1.1524,14690.993
+Samosir,Sumatera Utara,Sumatera,2021,1.1438,14587.234
+Serdang Bedagai,Sumatera Utara,Sumatera,2021,1.3157999999999999,16708.252
+Batu Bara,Sumatera Utara,Sumatera,2021,1.1481000000000001,15211.594
+Padang Lawas Utara,Sumatera Utara,Sumatera,2021,1.0233999999999999,13146.905999999999
+Padang Lawas,Sumatera Utara,Sumatera,2021,0.9546,13085.072
+Labuhan Batu Selatan,Sumatera Utara,Sumatera,2021,1.1782000000000001,15110.070999999998
+Labuhan Batu Utara,Sumatera Utara,Sumatera,2021,1.1179999999999999,14003.595
+Nias Utara,Sumatera Utara,Sumatera,2021,0.5762,7969.577
+Nias Barat,Sumatera Utara,Sumatera,2021,0.6837,9462.623
+Kota Sibolga,Sumatera Utara,Sumatera,2021,0.9761,11747.471
+Kota Tanjung Balai,Sumatera Utara,Sumatera,2021,1.0105,12424.720999999998
+Kota Pematang Siantar,Sumatera Utara,Sumatera,2021,1.1352,13685.954
+Kota Tebing Tinggi,Sumatera Utara,Sumatera,2021,0.9589,11878.363
+Kota Medan,Sumatera Utara,Sumatera,2021,1.1438,14266.324999999999
+Kota Binjai,Sumatera Utara,Sumatera,2021,1.2340999999999998,15459.359999999999
+Kota Padangsidimpuan,Sumatera Utara,Sumatera,2021,1.1524,13693.521999999999
+Kota Gunungsitoli,Sumatera Utara,Sumatera,2021,0.8127,11342.582999999999
+Kepulauan Mentawai,Sumatera Barat,Sumatera,2021,0.756,11717.874
+Pesisir Selatan,Sumatera Barat,Sumatera,2021,1.0668,13207.068000000001
+Solok,Sumatera Barat,Sumatera,2021,1.2894,17101.686
+Sijunjung,Sumatera Barat,Sumatera,2021,1.2768,16967.328
+Tanah Datar,Sumatera Barat,Sumatera,2021,1.2138,15862.266000000001
+Padang Pariaman,Sumatera Barat,Sumatera,2021,1.0584,13710.228000000001
+Agam,Sumatera Barat,Sumatera,2021,1.1634000000000002,14902.608
+Lima Puluh Kota,Sumatera Barat,Sumatera,2021,1.2138,15370.278000000002
+Pasaman,Sumatera Barat,Sumatera,2021,1.0038,12974.682
+Solok Selatan,Sumatera Barat,Sumatera,2021,1.4070000000000003,18523.932
+Dharmasraya,Sumatera Barat,Sumatera,2021,1.3398,18176.55
+Pasaman Barat,Sumatera Barat,Sumatera,2021,0.9114,12172.062000000002
+Kota Padang,Sumatera Barat,Sumatera,2021,1.0668,14432.039999999999
+Kota Solok,Sumatera Barat,Sumatera,2021,1.1046,15061.158
+Kota Sawah Lunto,Sumatera Barat,Sumatera,2021,1.2264,16965.27
+Kota Padang Panjang,Sumatera Barat,Sumatera,2021,1.1885999999999999,15894.984
+Kota Bukittinggi,Sumatera Barat,Sumatera,2021,1.0962,14756.952000000001
+Kota Payakumbuh,Sumatera Barat,Sumatera,2021,1.0794000000000001,14104.776000000002
+Kota Pariaman,Sumatera Barat,Sumatera,2021,1.0458,13817.118
+Kuantan Singingi,Riau,Sumatera,2021,1.3608,18430.314000000002
+Indragiri Hulu,Riau,Sumatera,2021,1.2389999999999999,16677.528000000002
+Indragiri Hilir,Riau,Sumatera,2021,1.2389999999999999,16343.712000000001
+Pelalawan,Riau,Sumatera,2021,1.3902,18386.046000000002
+Siak,Riau,Sumatera,2021,1.3146,18457.614
+Kampar,Riau,Sumatera,2021,1.3356000000000001,17511.9
+Rokan Hulu,Riau,Sumatera,2021,1.3146,17703.126
+Bengkalis,Riau,Sumatera,2021,1.3104,17123.526
+Rokan Hilir,Riau,Sumatera,2021,1.1760000000000002,15808.128
+Kepulauan Meranti,Riau,Sumatera,2021,1.1382,15211.854
+Kota Pekanbaru,Riau,Sumatera,2021,1.2726,17772.678
+Kota Dumai,Riau,Sumatera,2021,1.3104,17086.272
+Kerinci,Jambi,Sumatera,2021,1.376,17928
+Merangin,Jambi,Sumatera,2021,1.164,13422.8
+Sarolangun,Jambi,Sumatera,2021,1.136,13929.44
+Batang Hari,Jambi,Sumatera,2021,1.052,13047.56
+Muaro Jambi,Jambi,Sumatera,2021,1.132,13565.16
+Tanjung Jabung Timur,Jambi,Sumatera,2021,1.24,15888.2
+Tanjung Jabung Barat,Jambi,Sumatera,2021,1.096,12777.08
+Tebo,Jambi,Sumatera,2021,1.22,14957.52
+Bungo,Jambi,Sumatera,2021,1.292,15259.48
+Kota Jambi,Jambi,Sumatera,2021,1.076,13633.92
+Kota Sungai Penuh,Jambi,Sumatera,2021,1.412,19039.68
+Ogan Komering Ulu,Sumatera Selatan,Sumatera,2021,0.943,10789.519
+Ogan Komering Ilir,Sumatera Selatan,Sumatera,2021,1.1562,14737.162999999999
+Muara Enim,Sumatera Selatan,Sumatera,2021,0.8978999999999999,10380.789999999999
+Lahat,Sumatera Selatan,Sumatera,2021,0.9798999999999999,10208.918
+Musi Rawas,Sumatera Selatan,Sumatera,2021,1.0495999999999999,12315.538999999999
+Musi Banyuasin,Sumatera Selatan,Sumatera,2021,1.1316,14871.601999999997
+Banyu Asin,Sumatera Selatan,Sumatera,2021,1.0865,12932.63
+Ogan Komering Ulu Selatan,Sumatera Selatan,Sumatera,2021,1.0004,12727.425
+Ogan Komering Ulu Timur,Sumatera Selatan,Sumatera,2021,1.0824,12411.273999999998
+Ogan Ilir,Sumatera Selatan,Sumatera,2021,1.0209,11243.84
+Empat Lawang,Sumatera Selatan,Sumatera,2021,0.8486999999999999,10501.371
+Penukal Abab Lematang Ilir,Sumatera Selatan,Sumatera,2021,0.8978999999999999,9088.182999999999
+Musi Rawas Utara,Sumatera Selatan,Sumatera,2021,1.0168,12341.163999999999
+Kota Palembang,Sumatera Selatan,Sumatera,2021,0.8363999999999999,9550.170999999998
+Kota Prabumulih,Sumatera Selatan,Sumatera,2021,0.9142999999999999,9235.044999999998
+Kota Pagar Alam,Sumatera Selatan,Sumatera,2021,1.0413999999999999,10146.269999999999
+Kota Lubuklinggau,Sumatera Selatan,Sumatera,2021,1.0004,11588.568
+Bengkulu Selatan,Bengkulu,Sumatera,2021,0.796,11010.08
+Rejang Lebong,Bengkulu,Sumatera,2021,1.012,11328.8
+Bengkulu Utara,Bengkulu,Sumatera,2021,1.04,12710.28
+Kaur,Bengkulu,Sumatera,2021,0.78,9788.76
+Seluma,Bengkulu,Sumatera,2021,0.816,10168.24
+Mukomuko,Bengkulu,Sumatera,2021,1.024,12942.36
+Kepahiang,Bengkulu,Sumatera,2021,1.192,14216
+Kota Bengkulu,Bengkulu,Sumatera,2021,1.096,13411.6
+Bengkulu Tengah,Bengkulu,Sumatera,2021,1.044,12886.52
+Lebong,Bengkulu,Sumatera,2021,1.156,13005.56
+Lampung Barat,Lampung,Sumatera,2021,1.0764,14409.213
+Tanggamus,Lampung,Sumatera,2021,1.0296,12413.817000000001
+Lampung Selatan,Lampung,Sumatera,2021,1.209,15328.677
+Lampung Timur,Lampung,Sumatera,2021,1.0491000000000001,12131.301
+Tulangbawang,Lampung,Sumatera,2021,0.975,11357.697
+Way Kanan,Lampung,Sumatera,2021,1.1271,14372.904
+Lampung Utara,Lampung,Sumatera,2021,1.0803,13641.654
+Lampung Tengah,Lampung,Sumatera,2021,1.1622,13659.048
+Pesawaran,Lampung,Sumatera,2021,1.2128999999999999,14068.626
+Pringsewu,Lampung,Sumatera,2021,1.287,15320.994
+Mesuji,Lampung,Sumatera,2021,1.092,13128.141
+Tulang Bawang Barat,Lampung,Sumatera,2021,0.9828,12603.162
+Pesisir Barat,Lampung,Sumatera,2021,0.9203999999999999,11580.932999999999
+Kota Bandar Lampung,Lampung,Sumatera,2021,1.0335,13296.192000000001
+Bangka,Kepulauan Bangka Belitung,Sumatera,2021,0.6396000000000001,8933.807999999999
+Kota Metro,Lampung,Sumatera,2021,1.0452000000000001,13018.356
+Belitung,Kepulauan Bangka Belitung,Sumatera,2021,1.0647,15035.319
+Bangka Barat,Kepulauan Bangka Belitung,Sumatera,2021,0.8736,12530.505
+Bangka Tengah,Kepulauan Bangka Belitung,Sumatera,2021,0.8814,12318.384
+Belitung Timur,Kepulauan Bangka Belitung,Sumatera,2021,1.0452000000000001,15198.573
+Bangka Selatan,Kepulauan Bangka Belitung,Sumatera,2021,0.7293,10213.203
+Kota Pangkal Pinang,Kepulauan Bangka Belitung,Sumatera,2021,0.8814,12825.384
+Karimun,Kepulauan Riau,Sumatera,2021,1.0374,12755.307999999999
+Bintan,Kepulauan Riau,Sumatera,2021,1.178,13209.483999999999
+Lingga,Kepulauan Riau,Sumatera,2021,1.1361999999999999,14502.624
+Kepulauan Anambas,Kepulauan Riau,Sumatera,2021,1.3679999999999999,19544.692
+Kota Batam,Kepulauan Riau,Sumatera,2021,1.0298,12294.938
+Kota Tanjung Pinang,Kepulauan Riau,Sumatera,2021,0.9728,14649.532
+Kep. Seribu,DKI Jakarta,Jawa,2021,0.8967999999999999,10772.81
+Kota Jakarta Selatan,DKI Jakarta,Jawa,2021,0.9386,13686.612
+Kota Jakarta Timur,DKI Jakarta,Jawa,2021,0.9728,12713.242
+Kota Jakarta Pusat,DKI Jakarta,Jawa,2021,0.7638,9781.086
+Kota Jakarta Barat,DKI Jakarta,Jawa,2021,0.9538,11946.553999999998
+Kota Jakarta Utara,DKI Jakarta,Jawa,2021,0.7524,9331.964
+Bogor,Jawa Barat,Jawa,2021,0.8626,12064.733999999999
+Sukabumi,Jawa Barat,Jawa,2021,0.9538,11130.161999999998
+Cianjur,Jawa Barat,Jawa,2021,0.8588,10579.655999999999
+Bandung,Jawa Barat,Jawa,2021,1.0298,11902.094
+Garut,Jawa Barat,Jawa,2021,0.7182,11594.446
+Tasikmalaya,Jawa Barat,Jawa,2021,0.836,8788.792
+Ciamis,Jawa Barat,Jawa,2021,0.8854,9947.601999999999
+Kuningan,Jawa Barat,Jawa,2021,0.9613999999999999,12213.161999999998
+Cirebon,Jawa Barat,Jawa,2021,0.722,8982.478
+Majalengka,Jawa Barat,Jawa,2021,0.7903999999999999,9267.782
+Sumedang,Jawa Barat,Jawa,2021,0.9728,11909.542
+Indramayu,Jawa Barat,Jawa,2021,0.8854,10870.431999999999
+Subang,Jawa Barat,Jawa,2021,0.8473999999999999,10554.385999999999
+Purwakarta,Jawa Barat,Jawa,2021,0.9233999999999999,11868.957999999999
+Karawang,Jawa Barat,Jawa,2021,0.7941999999999999,9937.266
+Bekasi,Jawa Barat,Jawa,2021,0.9348,13021.725999999999
+Bandung Barat,Jawa Barat,Jawa,2021,0.6801999999999999,7405.1359999999995
+Pangandaran,Jawa Barat,Jawa,2021,0.9918,11560.17
+Kota Bogor,Jawa Barat,Jawa,2021,0.9538,13636.148
+Kota Sukabumi,Jawa Barat,Jawa,2021,0.8093999999999999,10092.457999999999
+Kota Bandung,Jawa Barat,Jawa,2021,0.6878,9774.17
+Kota Cirebon,Jawa Barat,Jawa,2021,0.7106,8966.328
+Kota Bekasi,Jawa Barat,Jawa,2021,0.855,12421.021999999999
+Kota Depok,Jawa Barat,Jawa,2021,0.9576,13796.659999999998
+Kota Cimahi,Jawa Barat,Jawa,2021,0.7448,9513.946
+Kota Tasikmalaya,Jawa Barat,Jawa,2021,0.6536,9115.402
+Kota Banjar,Jawa Barat,Jawa,2021,0.8626,8988.292
+Cilacap,Jawa Tengah,Jawa,2021,0.9990000000000001,10695.516
+Banyumas,Jawa Tengah,Jawa,2021,0.9768000000000001,11325.145
+Purbalingga,Jawa Tengah,Jawa,2021,0.9361,10504.411000000002
+Banjarnegara,Jawa Tengah,Jawa,2021,0.9916000000000001,12583.959
+Kebumen,Jawa Tengah,Jawa,2021,1.0138,11853.764
+Purworejo,Jawa Tengah,Jawa,2021,0.8584,9694.074
+Wonosobo,Jawa Tengah,Jawa,2021,0.8843,9867.788999999999
+Magelang,Jawa Tengah,Jawa,2021,0.8510000000000001,10292.142
+Boyolali,Jawa Tengah,Jawa,2021,0.9324,10915.259000000002
+Klaten,Jawa Tengah,Jawa,2021,0.7955,11437.44
+Sukoharjo,Jawa Tengah,Jawa,2021,0.8584,10852.544
+Wonogiri,Jawa Tengah,Jawa,2021,0.9842000000000001,11899.348
+Karanganyar,Jawa Tengah,Jawa,2021,0.9102,11652.78
+Sragen,Jawa Tengah,Jawa,2021,1.0693,13260.726
+Grobogan,Jawa Tengah,Jawa,2021,0.9657000000000001,10197.422
+Blora,Jawa Tengah,Jawa,2021,0.8769,10697.514
+Rembang,Jawa Tengah,Jawa,2021,0.9102,10685.748
+Pati,Jawa Tengah,Jawa,2021,0.9028,10872.487000000001
+Kudus,Jawa Tengah,Jawa,2021,0.8658000000000001,10939.42
+Jepara,Jawa Tengah,Jawa,2021,0.7733,9322.187000000002
+Demak,Jawa Tengah,Jawa,2021,0.8732,11211.148000000001
+Semarang,Jawa Tengah,Jawa,2021,0.9287000000000001,11438.957
+Temanggung,Jawa Tengah,Jawa,2021,0.7141000000000001,8094.416
+Kendal,Jawa Tengah,Jawa,2021,0.8251000000000001,10111.471
+Batang,Jawa Tengah,Jawa,2021,0.777,9771.922
+Pekalongan,Jawa Tengah,Jawa,2021,0.7437,9450.022
+Pemalang,Jawa Tengah,Jawa,2021,0.7881,9433.742
+Tegal,Jawa Tengah,Jawa,2021,0.8658000000000001,10861.128
+Brebes,Jawa Tengah,Jawa,2021,0.7178000000000001,8583.408000000001
+Kota Magelang,Jawa Tengah,Jawa,2021,0.7400000000000001,11417.867
+Kota Surakarta,Jawa Tengah,Jawa,2021,0.6512,8692.854000000001
+Kota Salatiga,Jawa Tengah,Jawa,2021,0.7844,10960.880000000001
+Kota Semarang,Jawa Tengah,Jawa,2021,0.8066,11442.139
+Kota Pekalongan,Jawa Tengah,Jawa,2021,0.6142000000000001,8950.522
+Kota Tegal,Jawa Tengah,Jawa,2021,0.666,9009.648000000001
+Kulon Progo,DI Yogyakarta,Jawa,2021,0.6138,7496.081999999999
+Bantul,DI Yogyakarta,Jawa,2021,0.7161,8865.318
+Gunung Kidul,DI Yogyakarta,Jawa,2021,0.8679,11369.391
+Sleman,DI Yogyakarta,Jawa,2021,0.7061999999999999,8604.518999999998
+Kota Yogyakarta,DI Yogyakarta,Jawa,2021,0.5346,6766.518
+Pacitan,Jawa Timur,Jawa,2021,0.8784,10285.236
+Ponorogo,Jawa Timur,Jawa,2021,0.7272000000000001,9506.0520000000015
+Trenggalek,Jawa Timur,Jawa,2021,0.7092,7328.736
+Tulungagung,Jawa Timur,Jawa,2021,0.7812,9838.692
+Blitar,Jawa Timur,Jawa,2021,0.7595999999999999,8748.828
+Kediri,Jawa Timur,Jawa,2021,0.8028000000000001,8868.564
+Malang,Jawa Timur,Jawa,2021,0.792,9608.508000000002
+Lumajang,Jawa Timur,Jawa,2021,0.918,10729.224
+Jember,Jawa Timur,Jawa,2021,1.0151999999999999,12452.4
+Banyuwangi,Jawa Timur,Jawa,2021,0.9756000000000001,11486.124000000002
+Bondowoso,Jawa Timur,Jawa,2021,0.8064,10210.68
+Situbondo,Jawa Timur,Jawa,2021,0.9288000000000001,11089.656
+Probolinggo,Jawa Timur,Jawa,2021,0.756,7677.432
+Pasuruan,Jawa Timur,Jawa,2021,0.8064,10556.316
+Sidoarjo,Jawa Timur,Jawa,2021,0.8784,11553.012
+Mojokerto,Jawa Timur,Jawa,2021,0.9108,11681.784
+Jombang,Jawa Timur,Jawa,2021,0.9144,10705.536000000002
+Nganjuk,Jawa Timur,Jawa,2021,0.9684,12517.452000000001
+Madiun,Jawa Timur,Jawa,2021,0.8064,9685.547999999999
+Magetan,Jawa Timur,Jawa,2021,0.846,11039.724
+Ngawi,Jawa Timur,Jawa,2021,0.9,9748.764
+Bojonegoro,Jawa Timur,Jawa,2021,1.062,12727.619999999999
+Tuban,Jawa Timur,Jawa,2021,0.8172,10212.588
+Lamongan,Jawa Timur,Jawa,2021,0.9144,10849.284
+Gresik,Jawa Timur,Jawa,2021,0.8964,11081.268
+Bangkalan,Jawa Timur,Jawa,2021,0.8208000000000001,9140.76
+Sampang,Jawa Timur,Jawa,2021,0.7632,8690.364
+Pamekasan,Jawa Timur,Jawa,2021,0.774,9788.076
+Sumenep,Jawa Timur,Jawa,2021,0.7632,10239.912
+Kota Kediri,Jawa Timur,Jawa,2021,0.7164,9292.104
+Kota Blitar,Jawa Timur,Jawa,2021,0.6876,9113.184000000001
+Kota Malang,Jawa Timur,Jawa,2021,0.8388000000000001,10624.5
+Kota Probolinggo,Jawa Timur,Jawa,2021,0.7164,8879.688
+Kota Pasuruan,Jawa Timur,Jawa,2021,0.6948000000000001,9267.192
+Kota Mojokerto,Jawa Timur,Jawa,2021,0.7343999999999999,9438.156
+Kota Madiun,Jawa Timur,Jawa,2021,0.7128000000000001,9551.772
+Kota Surabaya,Jawa Timur,Jawa,2021,0.9576000000000001,12562.2
+Kota Batu,Jawa Timur,Jawa,2021,0.864,10912.392
+Pandeglang,Banten,Jawa,2021,0.9266,10853.355999999998
+Lebak,Banten,Jawa,2021,1.1398,15149.171999999999
+Tangerang,Banten,Jawa,2021,1.1234,14474.762999999997
+Serang,Banten,Jawa,2021,1.0413999999999999,11943.463999999998
+Kota Tangerang,Banten,Jawa,2021,1.1521000000000001,15166.883999999998
+Kota Cilegon,Banten,Jawa,2021,1.1152,15441.788999999999
+Kota Serang,Banten,Jawa,2021,1.1275,14588.455999999998
+Kota Tangerang Selatan,Banten,Jawa,2021,1.1152,15346.422999999999
+Jembrana,Bali,Bali & Nusa Tenggara,2021,0.7676000000000001,11462.016
+Tabanan,Bali,Bali & Nusa Tenggara,2021,0.855,11459.546
+Badung,Bali,Bali & Nusa Tenggara,2021,0.7714,10999.061999999998
+Gianyar,Bali,Bali & Nusa Tenggara,2021,0.8626,12042.807999999999
+Klungkung,Bali,Bali & Nusa Tenggara,2021,0.6611999999999999,7500.1359999999995
+Bangli,Bali,Bali & Nusa Tenggara,2021,0.9043999999999999,13556.842
+Buleleng,Bali,Bali & Nusa Tenggara,2021,0.8018,10633.274
+Karangasem,Bali,Bali & Nusa Tenggara,2021,0.6573999999999999,7419.576
+Kota Denpasar,Bali,Bali & Nusa Tenggara,2021,0.7979999999999999,11539.346
+Lombok Barat,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.7848,8786.7
+Lombok Tengah,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.81,8795.628
+Lombok Timur,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.936,11278.296
+Sumbawa,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.7236,9594.108
+Dompu,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.4968000000000001,6136.308
+Bima,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.5436,6581.52
+Sumbawa Barat,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.7452,10182.384
+Lombok Utara,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.6372,6984.36
+Kota Mataram,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.7956,10547.496000000001
+Kota Bima,Nusa Tenggara Barat,Bali & Nusa Tenggara,2021,0.6012000000000001,8495.172
+Sumba Barat,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.506,9422.409999999998
+Sumba Timur,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.6531999999999999,9701.859999999999
+Kupang,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.7866,10646.285999999998
+Timor Tengah Selatan,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.6256,11020.725999999999
+Timor Tengah Utara,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.7175999999999999,12404.866
+Belu,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.828,10943.353999999998
+Alor,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.6623999999999999,11402.341999999999
+Lembata,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.8371999999999999,10708.064
+Flores Timur,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.7038,9566.297999999999
+Sikka,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.5888,7813.928
+Ende,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.6945999999999999,11085.217999999999
+Ngada,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.7957999999999998,11386.011999999999
+Rote Ndao,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.8095999999999999,12193.266
+Manggarai,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.7636,11659.435999999998
+Manggarai Barat,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.7405999999999999,11453.632
+Sumba Tengah,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.49679999999999996,6953.451999999999
+Sumba Barat Daya,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.47839999999999994,6529.24
+Nagekeo,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.6026,10445.449999999999
+Manggarai Timur,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.6348,8536.588
+Sabu Raijua,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.9981999999999999,14317.132
+Malaka,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,0.8785999999999999,10871.547999999999
+Kota Kupang,Nusa Tenggara Timur,Bali & Nusa Tenggara,2021,1.0028,15040.297999999999
+Sambas,Kalimantan Barat,Kalimantan,2021,0.8471,11931.081
+Bengkayang,Kalimantan Barat,Kalimantan,2021,1.0105,13509.439
+Landak,Kalimantan Barat,Kalimantan,2021,0.9029999999999999,13064.259999999998
+Mempawah,Kalimantan Barat,Kalimantan,2021,0.8771999999999999,11288.145
+Sanggau,Kalimantan Barat,Kalimantan,2021,0.8557,12035.399
+Sintang,Kalimantan Barat,Kalimantan,2021,0.8771999999999999,13748.562
+Ketapang,Kalimantan Barat,Kalimantan,2021,0.946,13392.607999999998
+Kapuas Hulu,Kalimantan Barat,Kalimantan,2021,0.7783,11567.387
+Sekadau,Kalimantan Barat,Kalimantan,2021,0.86,11786.170999999998
+Melawi,Kalimantan Barat,Kalimantan,2021,0.9847,13906.415
+Kayong Utara,Kalimantan Barat,Kalimantan,2021,0.8643000000000001,12282.304999999998
+Kubu Raya,Kalimantan Barat,Kalimantan,2021,0.8986999999999999,11696
+Kota Pontianak,Kalimantan Barat,Kalimantan,2021,0.7998,10958.807999999999
+Kota Singkawang,Kalimantan Barat,Kalimantan,2021,1.0148,13630.526999999998
+Kotawaringin Barat,Kalimantan Tengah,Kalimantan,2021,1.1739,17071.002
+Kotawaringin Timur,Kalimantan Tengah,Kalimantan,2021,0.9165,12904.280999999999
+Kapuas,Kalimantan Tengah,Kalimantan,2021,1.0491000000000001,12692.238
+Barito Selatan,Kalimantan Tengah,Kalimantan,2021,1.053,13963.716
+Barito Utara,Kalimantan Tengah,Kalimantan,2021,1.0296,13788.567000000001
+Sukamara,Kalimantan Tengah,Kalimantan,2021,0.9399,14159.691
+Lamandau,Kalimantan Tengah,Kalimantan,2021,1.1934,18606.471
+Seruyan,Kalimantan Tengah,Kalimantan,2021,1.0997999999999999,15534.714
+Katingan,Kalimantan Tengah,Kalimantan,2021,0.9203999999999999,14098.344
+Pulang Pisau,Kalimantan Tengah,Kalimantan,2021,1.1271,15481.673999999999
+Gunung Mas,Kalimantan Tengah,Kalimantan,2021,0.7566,11225.409
+Barito Timur,Kalimantan Tengah,Kalimantan,2021,1.0881,14533.701000000001
+Murung Raya,Kalimantan Tengah,Kalimantan,2021,0.7839,11308.245
+Kota Palangka Raya,Kalimantan Tengah,Kalimantan,2021,0.9477,12587.211
+Tanah Laut,Kalimantan Selatan,Kalimantan,2021,1.0249000000000001,13042.315
+Kota Baru,Kalimantan Selatan,Kalimantan,2021,1.0027000000000001,15301.720000000003
+Banjar,Kalimantan Selatan,Kalimantan,2021,0.9213,12121.866
+Tapin,Kalimantan Selatan,Kalimantan,2021,1.0433999999999999,13991.476
+Barito Kuala,Kalimantan Selatan,Kalimantan,2021,1.0175,13015.637999999999
+Hulu Sungai Selatan,Kalimantan Selatan,Kalimantan,2021,0.8436,11088.53
+Hulu Sungai Tengah,Kalimantan Selatan,Kalimantan,2021,0.8694999999999999,11243.671
+Hulu Sungai Utara,Kalimantan Selatan,Kalimantan,2021,0.9028,11507.592
+Tabalong,Kalimantan Selatan,Kalimantan,2021,1.0323000000000002,14111.874
+Tanah Bumbu,Kalimantan Selatan,Kalimantan,2021,1.0286000000000002,13804.996000000001
+Balangan,Kalimantan Selatan,Kalimantan,2021,1.0175,13894.61
+Kota Banjarmasin,Kalimantan Selatan,Kalimantan,2021,0.888,11968.39
+Kota Banjar Baru,Kalimantan Selatan,Kalimantan,2021,0.9657000000000001,13450.387999999999
+Paser,Kalimantan Timur,Kalimantan,2021,1.012,14160.04
+Kutai Barat,Kalimantan Timur,Kalimantan,2021,1.024,14653.6
+Kutai Kartanegara,Kalimantan Timur,Kalimantan,2021,1.012,13502.92
+Kutai Timur,Kalimantan Timur,Kalimantan,2021,1.092,16169.4
+Berau,Kalimantan Timur,Kalimantan,2021,1.036,14868.36
+Penajam Paser Utara,Kalimantan Timur,Kalimantan,2021,1.08,14382.8
+Mahakam Ulu,Kalimantan Timur,Kalimantan,2021,1.012,16581.72
+Kota Balikpapan,Kalimantan Timur,Kalimantan,2021,0.916,12739.68
+Kota Samarinda,Kalimantan Timur,Kalimantan,2021,0.968,12673.08
+Kota Bontang,Kalimantan Timur,Kalimantan,2021,0.984,14498.84
+Malinau,Kalimantan Utara,Kalimantan,2021,0.792,13864.884000000002
+Bulungan,Kalimantan Utara,Kalimantan,2021,1.0428,16278.108000000002
+Tana Tidung,Kalimantan Utara,Kalimantan,2021,1.0956000000000001,18046.204
+Nunukan,Kalimantan Utara,Kalimantan,2021,0.9856000000000001,14576.804
+Kota Tarakan,Kalimantan Utara,Kalimantan,2021,0.9416000000000001,12969.484000000002
+Bolaang Mongondow,Sulawesi Utara,Sulawesi,2021,0.8697,11731.511999999999
+Minahasa,Sulawesi Utara,Sulawesi,2021,0.9828,12625.119
+Kepulauan Sangihe,Sulawesi Utara,Sulawesi,2021,0.741,10038.092999999999
+Kepulauan Talaud,Sulawesi Utara,Sulawesi,2021,0.8229,11622.273000000001
+Minahasa Selatan,Sulawesi Utara,Sulawesi,2021,0.9438,11484.603
+Minahasa Utara,Sulawesi Utara,Sulawesi,2021,0.7059,9042.539999999999
+Bolaang Mongondow Utara,Sulawesi Utara,Sulawesi,2021,0.8541,12277.511999999999
+Siau Tagulandang Biaro,Sulawesi Utara,Sulawesi,2021,0.5343,7102.446
+Minahasa Tenggara,Sulawesi Utara,Sulawesi,2021,0.7605,9439.638
+Bolaang Mongondow Selatan,Sulawesi Utara,Sulawesi,2021,0.9009,11101.779
+Bolaang Mongondow Timur,Sulawesi Utara,Sulawesi,2021,0.8423999999999999,11820.978
+Kota Manado,Sulawesi Utara,Sulawesi,2021,0.6513,9249.63
+Kota Bitung,Sulawesi Utara,Sulawesi,2021,0.7059,9567.792000000001
+Kota Tomohon,Sulawesi Utara,Sulawesi,2021,0.9126000000000001,12559.053
+Kota Kotamobagu,Sulawesi Utara,Sulawesi,2021,0.9984,14012.154
+Banggai Kepulauan,Sulawesi Tengah,Sulawesi,2021,0.6552,10630.914
+Banggai,Sulawesi Tengah,Sulawesi,2021,0.8022,11904.396
+Morowali,Sulawesi Tengah,Sulawesi,2021,0.8778,12397.938
+Poso,Sulawesi Tengah,Sulawesi,2021,0.903,12301.548
+Donggala,Sulawesi Tengah,Sulawesi,2021,0.609,8426.922
+Toli-Toli,Sulawesi Tengah,Sulawesi,2021,0.6216,7763.07
+Buol,Sulawesi Tengah,Sulawesi,2021,0.7686000000000001,9724.596000000001
+Parigi Moutong,Sulawesi Tengah,Sulawesi,2021,0.6972,9127.062000000002
+Tojo Una-Una,Sulawesi Tengah,Sulawesi,2021,0.7266,8545.614000000001
+Sigi,Sulawesi Tengah,Sulawesi,2021,0.6594,8524.95
+Banggai Laut,Sulawesi Tengah,Sulawesi,2021,0.5754,7788.9000000000005
+Morowali Utara,Sulawesi Tengah,Sulawesi,2021,0.8316000000000001,11532.822
+Kota Palu,Sulawesi Tengah,Sulawesi,2021,0.8526000000000001,11370.492000000002
+Kepulauan Selayar,Sulawesi Selatan,Sulawesi,2021,0.792,11132.748000000001
+Bulukumba,Sulawesi Selatan,Sulawesi,2021,0.8404,11584.320000000002
+Bantaeng,Sulawesi Selatan,Sulawesi,2021,0.8976000000000001,11666.336000000001
+Jeneponto,Sulawesi Selatan,Sulawesi,2021,0.8404,10423.248000000001
+Takalar,Sulawesi Selatan,Sulawesi,2021,0.7348000000000001,9848.916000000001
+Gowa,Sulawesi Selatan,Sulawesi,2021,0.8492000000000001,12367.388
+Sinjai,Sulawesi Selatan,Sulawesi,2021,0.9460000000000001,12858.428
+Maros,Sulawesi Selatan,Sulawesi,2021,0.7744,10733.052
+Pangkajene dan Kepulauan,Sulawesi Selatan,Sulawesi,2021,0.8008000000000001,10164.572000000002
+Barru,Sulawesi Selatan,Sulawesi,2021,0.9064,10327.724
+Bone,Sulawesi Selatan,Sulawesi,2021,0.8360000000000001,9179.28
+Soppeng,Sulawesi Selatan,Sulawesi,2021,0.77,9141
+Wajo,Sulawesi Selatan,Sulawesi,2021,0.8976000000000001,12173.832000000002
+Sidenreng Rappang,Sulawesi Selatan,Sulawesi,2021,0.9064,10606.288
+Pinrang,Sulawesi Selatan,Sulawesi,2021,0.8272,10157.884000000002
+Enrekang,Sulawesi Selatan,Sulawesi,2021,0.8800000000000001,10694.640000000001
+Luwu,Sulawesi Selatan,Sulawesi,2021,0.7480000000000001,9128.328
+Tana Toraja,Sulawesi Selatan,Sulawesi,2021,0.6732,9344.588000000002
+Luwu Utara,Sulawesi Selatan,Sulawesi,2021,0.8448000000000001,11274.604000000001
+Luwu Timur,Sulawesi Selatan,Sulawesi,2021,0.8492000000000001,10968.188
+Toraja Utara,Sulawesi Selatan,Sulawesi,2021,0.6204,8865.252
+Kota Makasar,Sulawesi Selatan,Sulawesi,2021,0.6688000000000001,8611.24
+Kota Parepare,Sulawesi Selatan,Sulawesi,2021,0.9372,13298.252
+Kota Palopo,Sulawesi Selatan,Sulawesi,2021,0.6292,8488.788
+Buton,Sulawesi Tenggara,Sulawesi,2021,0.6072000000000001,8526.056
+Muna,Sulawesi Tenggara,Sulawesi,2021,0.5896000000000001,8381.560000000001
+Konawe,Sulawesi Tenggara,Sulawesi,2021,0.6204,7617.808
+Kolaka,Sulawesi Tenggara,Sulawesi,2021,0.7612,7744.704000000001
+Konawe Selatan,Sulawesi Tenggara,Sulawesi,2021,0.7480000000000001,10862.676000000001
+Bombana,Sulawesi Tenggara,Sulawesi,2021,0.6644,9882.400000000001
+Wakatobi,Sulawesi Tenggara,Sulawesi,2021,0.6688000000000001,9477.908000000001
+Kolaka Utara,Sulawesi Tenggara,Sulawesi,2021,0.8976000000000001,13589.664
+Buton Utara,Sulawesi Tenggara,Sulawesi,2021,0.7832,12509.684000000001
+Konawe Utara,Sulawesi Tenggara,Sulawesi,2021,0.7392000000000001,11050.6
+Kolaka Timur,Sulawesi Tenggara,Sulawesi,2021,0.8888000000000001,13216.852
+Konawe Kepulauan,Sulawesi Tenggara,Sulawesi,2021,0.46640000000000004,7467.196
+Buton Tengah,Sulawesi Tenggara,Sulawesi,2021,0.43560000000000004,6983.636
+Muna Barat,Sulawesi Tenggara,Sulawesi,2021,0.5588000000000001,10022.1
+Buton Selatan,Sulawesi Tenggara,Sulawesi,2021,0.5016,7215.252
+Kota Kendari,Sulawesi Tenggara,Sulawesi,2021,0.7172000000000001,10880.98
+Kota Baubau,Sulawesi Tenggara,Sulawesi,2021,0.6908000000000001,9895.864000000001
+Boalemo,Gorontalo,Sulawesi,2021,1.2211999999999998,15123.615999999998
+Gorontalo,Gorontalo,Sulawesi,2021,0.9976,12887.014
+Pohuwato,Gorontalo,Sulawesi,2021,1.2168999999999999,15557.701000000001
+Bone Bolango,Gorontalo,Sulawesi,2021,1.0406,14586.029999999999
+Gorontalo Utara,Gorontalo,Sulawesi,2021,1.2899999999999998,17050.575
+Kota Gorontalo,Gorontalo,Sulawesi,2021,1.1868,15656.385999999999
+Majene,Sulawesi Barat,Sulawesi,2021,0.7515000000000001,9368.954999999998
+Polewali Mandar,Sulawesi Barat,Sulawesi,2021,0.6479999999999999,8609.130000000001
+Mamasa,Sulawesi Barat,Sulawesi,2021,0.693,8605.800000000001
+Mamuju,Sulawesi Barat,Sulawesi,2021,0.882,11324.34
+Mamuju Utara,Sulawesi Barat,Sulawesi,2021,0.972,14310.765
+Mamuju Tengah,Sulawesi Barat,Sulawesi,2021,0.9675,13068.225
+Maluku Tenggara Barat,Maluku,Maluku & Papua,2021,0.6863999999999999,12181.392
+Maluku Tenggara,Maluku,Maluku & Papua,2021,0.672,11490.528
+Maluku Tengah,Maluku,Maluku & Papua,2021,0.8351999999999999,12900.24
+Buru,Maluku,Maluku & Papua,2021,0.8592,12923.279999999999
+Kepulauan Aru,Maluku,Maluku & Papua,2021,0.7343999999999999,12884.496
+Seram Bagian Barat,Maluku,Maluku & Papua,2021,0.7055999999999999,10896.72
+Seram Bagian Timur,Maluku,Maluku & Papua,2021,0.7343999999999999,12279.12
+Maluku Barat Daya,Maluku,Maluku & Papua,2021,0.6048,10435.104
+Buru Selatan,Maluku,Maluku & Papua,2021,0.5087999999999999,8436.816
+Kota Ambon,Maluku,Maluku & Papua,2021,0.9408,13923.503999999999
+Kota Tual,Maluku,Maluku & Papua,2021,0.5808,10469.424
+Halmahera Barat,Maluku Utara,Maluku & Papua,2021,0.9791999999999998,17221.92
+Halmahera Tengah,Maluku Utara,Maluku & Papua,2021,0.6815999999999999,10663.872
+Kepulauan Sula,Maluku Utara,Maluku & Papua,2021,0.5568,8531.232
+Halmahera Selatan,Maluku Utara,Maluku & Papua,2021,0.7632,12050.4
+Halmahera Utara,Maluku Utara,Maluku & Papua,2021,0.9887999999999999,15856.608
+Halmahera Timur,Maluku Utara,Maluku & Papua,2021,0.888,14724.48
+Pulau Morotai,Maluku Utara,Maluku & Papua,2021,0.5327999999999999,8137.343999999999
+Pulau Taliabu,Maluku Utara,Maluku & Papua,2021,0.528,7917.12
+Kota Ternate,Maluku Utara,Maluku & Papua,2021,0.888,12830.975999999999
+Kota Tidore Kepulauan,Maluku Utara,Maluku & Papua,2021,0.9456,16464.048
+Fakfak,Papua Barat,Maluku & Papua,2021,0.9045000000000001,17205.3
+Kaimana,Papua Barat,Maluku & Papua,2021,1.0170000000000001,17992.305
+Teluk Wondama,Papua Barat,Maluku & Papua,2021,1.008,19450.395
+Teluk Bintuni,Papua Barat,Maluku & Papua,2021,1.1115,22991.94
+Manokwari,Papua Barat,Maluku & Papua,2021,1.17,17885.43
+Sorong Selatan,Papua Barat,Maluku & Papua,2021,0.8415,11567.295000000002
+Sorong,Papua Barat,Maluku & Papua,2021,1.3094999999999999,18959.445
+Raja Ampat,Papua Barat,Maluku & Papua,2021,0.909,18033.345
+Tambrauw,Papua Barat,Maluku & Papua,2021,0.9269999999999999,15639.615
+Maybrat,Papua Barat,Maluku & Papua,2021,1.215,22223.25
+Manokwari Selatan,Papua Barat,Maluku & Papua,2021,1.2015,22254.165
+Pegunungan Arfak,Papua Barat,Maluku & Papua,2021,1.125,12984.795000000002
+Kota Sorong,Papua Barat,Maluku & Papua,2021,1.3679999999999999,20913.12
+Merauke,Papua,Maluku & Papua,2021,1.2469999999999999,19725.218
+Jayawijaya,Papua,Maluku & Papua,2021,0.7353000000000001,26067.072999999997
+Jayapura,Papua,Maluku & Papua,2021,1.1739,19380.013999999996
+Nabire,Papua,Maluku & Papua,2021,1.2427,21686.319
+Kepulauan Yapen,Papua,Maluku & Papua,2021,1.333,21871.907
+Biak Numfor,Papua,Maluku & Papua,2021,0.9116,15536.889
+Paniai,Papua,Maluku & Papua,2021,1.075,18321.138999999996
+Puncak Jaya,Papua,Maluku & Papua,2021,1.1438,47294.797
+Mimika,Papua,Maluku & Papua,2021,1.0406,18115.986
+Boven Digoel,Papua,Maluku & Papua,2021,1.0449,17216.597999999998
+Mappi,Papua,Maluku & Papua,2021,0.6837,11524.731
+Asmat,Papua,Maluku & Papua,2021,0.817,15700.891
+Yahukimo,Papua,Maluku & Papua,2021,0.37839999999999996,13432.426
+Pegunungan Bintang,Papua,Maluku & Papua,2021,0.43,16073.701000000001
+Tolikara,Papua,Maluku & Papua,2021,1.0621,28371.184999999998
+Sarmi,Papua,Maluku & Papua,2021,0.8944,12896.860999999999
+Keerom,Papua,Maluku & Papua,2021,1.032,15817.55
+Waropen,Papua,Maluku & Papua,2021,1.6899,24139.082
+Supiori,Papua,Maluku & Papua,2021,0.9933,18227.012
+Mamberamo Raya,Papua,Maluku & Papua,2021,0.6708,11909.021999999999
+Nduga,Papua,Maluku & Papua,2021,0.6192,34258.358
+Lanny Jaya,Papua,Maluku & Papua,2021,0.8341999999999999,38369.287
+Mamberamo Tengah,Papua,Maluku & Papua,2021,0.344,11028.898
+Yalimo,Papua,Maluku & Papua,2021,0.7525,34422.962
+Puncak,Papua,Maluku & Papua,2021,1.5351,76784.326
+Dogiyai,Papua,Maluku & Papua,2021,1.0664,12017.855
+Intan Jaya,Papua,Maluku & Papua,2021,1.0793,41730.424999999996
+Deiyai,Papua,Maluku & Papua,2021,1.1782000000000001,19792.04
+Kota Jayapura,Papua,Maluku & Papua,2021,1.0105,16476.353
