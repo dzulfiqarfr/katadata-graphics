@@ -2,6 +2,8 @@
 
 This story seeks to describe how the price increases in food items hit poor households the hardest. The story looks at the correlation between the share of households with a food expenditure greater than 65 percent and the poverty rate. Then it shows the year-on-year change in the Consumer Price Index (CPI) for the food, beverage and tobacco expenditure group. Finally, the story shows that the noncash food assistance has yet to reach a large portion of poor households in nearly all provinces.
 
+Read the story [here](https://katadata.co.id/ariayudhistira/analisisdata/6263774b83d0d/mengapa-lonjakan-harga-pangan-paling-memukul-orang-miskin).
+
 
 # Data
 

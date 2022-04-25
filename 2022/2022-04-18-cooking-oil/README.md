@@ -2,6 +2,8 @@
 
 This story seeks to describe how the government's move to scrap the price cap on packaged cooking oil affects prices. Then it describes how the impact of the cash transfer program may vary from one region to another, in part depending on the local prices of the cooking oil. Then, it explains that cooking oil expenditure in some Papuan cities and regencies are unsually high, even before the price surge.
 
+Read the story [here](https://katadata.co.id/ariayudhistira/analisisdata/62592d926bc52/daerah-mana-paling-tertekan-lonjakan-harga-minyak-goreng).
+
 
 # Data
 
