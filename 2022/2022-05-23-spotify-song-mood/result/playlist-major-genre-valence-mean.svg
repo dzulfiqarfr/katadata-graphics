@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="562.54358pt"
+   height="345.86908pt"
+   viewBox="0 0 562.54358 345.86908"
+   version="1.1"
+   id="svg3443"
+   sodipodi:docname="playlist-major-genre-valence-mean.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-filename="C:\Users\dzulf\Documents\Projects\katadata-graphics\2022\2022-05-11-song-mood\result\playlist-major-genre-valence-mean.png"
+   inkscape:export-xdpi="163.8273"
+   inkscape:export-ydpi="163.8273"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3445"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.2088948"
+     inkscape:cx="415.66892"
+     inkscape:cy="239.88853"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3443" />
+  <defs
+     id="defs3273">
+    <style
+       type="text/css"
+       id="style3271"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+  </defs>
+  <rect
+     width="100%"
+     height="100%"
+     style="fill:#ffffff;stroke:none"
+     id="rect3275"
+     x="-7.4061165"
+     y="-6.9176178" />
+  <defs
+     id="defs3280">
+    <clipPath
+       id="cpMC4wMHw1NzYuMDB8MC4wMHwzNjAuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="360"
+         id="rect3277" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwzNjAuMDA=)"
+     id="g3284"
+     transform="translate(-7.4061165,-6.9176177)">
+    <rect
+       x="0"
+       y="0"
+       width="576"
+       height="360"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect3282" />
+  </g>
+  <defs
+     id="defs3289">
+    <clipPath
+       id="cpNjAuMzJ8NTY4LjkxfDYxLjcwfDMyMy41MA==">
+      <rect
+         x="60.32"
+         y="61.700001"
+         width="508.59"
+         height="261.79001"
+         id="rect3286" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpNjAuMzJ8NTY4LjkxfDYxLjcwfDMyMy41MA==)"
+     id="g3331"
+     transform="translate(-7.4061165,-6.9176177)">
+    <rect
+       x="60.32"
+       y="61.700001"
+       width="508.59"
+       height="261.79001"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect3291" />
+    <polyline
+       points="60.32,323.50 60.32,61.70 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3293" />
+    <polyline
+       points="187.47,323.50 187.47,61.70 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3295" />
+    <polyline
+       points="314.62,323.50 314.62,61.70 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3297" />
+    <polyline
+       points="441.77,323.50 441.77,61.70 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3299" />
+    <polyline
+       points="568.91,323.50 568.91,61.70 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3301" />
+    <rect
+       x="60.32"
+       y="95.07"
+       width="360.54001"
+       height="15.4"
+       style="fill:#334c64;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3303" />
+    <rect
+       x="60.32"
+       y="274.73001"
+       width="198.62"
+       height="15.4"
+       style="fill:#c89c81;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3305" />
+    <rect
+       x="60.32"
+       y="120.73"
+       width="276.51001"
+       height="15.4"
+       style="fill:#a0a5ab;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3307" />
+    <rect
+       x="60.32"
+       y="249.06"
+       width="206.95"
+       height="15.4"
+       style="fill:#c7a18a;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3309" />
+    <rect
+       x="60.32"
+       y="300.39999"
+       width="183.67999"
+       height="15.4"
+       style="fill:#c99371;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3311" />
+    <rect
+       x="60.32"
+       y="197.73"
+       width="266.57999"
+       height="15.4"
+       style="fill:#adb0b3;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3313" />
+    <rect
+       x="60.32"
+       y="172.07001"
+       width="266.72"
+       height="15.4"
+       style="fill:#adb0b3;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3315" />
+    <rect
+       x="60.32"
+       y="223.39999"
+       width="240.89"
+       height="15.4"
+       style="fill:#c2b6af;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3317" />
+    <rect
+       x="60.32"
+       y="69.400002"
+       width="361.10999"
+       height="15.4"
+       style="fill:#324b64;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3319" />
+    <rect
+       x="60.32"
+       y="146.39999"
+       width="269.64001"
+       height="15.4"
+       style="fill:#a9acb1;stroke:#ffffff;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:miter"
+       id="rect3321" />
+    <polygon
+       points="481.12,184.86 481.47,184.85 481.81,184.78 482.13,184.66 482.43,184.48 482.7,184.26 482.93,184 483.12,183.71 483.26,183.39 483.34,183.05 483.37,182.7 483.37,182.7 483.37,176.83 483.37,176.83 483.34,176.48 483.26,176.14 483.12,175.82 482.93,175.53 482.7,175.27 482.43,175.05 482.13,174.88 481.81,174.75 481.47,174.68 481.21,174.67 402.32,174.67 402.58,174.68 402.24,174.67 401.89,174.71 401.56,174.81 401.24,174.96 400.96,175.16 400.71,175.4 400.5,175.67 400.34,175.98 400.23,176.31 400.17,176.65 400.16,176.83 400.16,182.7 400.17,182.53 400.17,182.88 400.23,183.22 400.34,183.55 400.5,183.86 400.71,184.14 400.96,184.38 401.24,184.57 401.56,184.72 401.89,184.82 402.24,184.86 402.32,184.86 481.21,184.86 "
+       style="fill:#ffffff;stroke:none;stroke-width:0.53"
+       id="polygon3323" />
+    <text
+       x="400.16"
+       y="182.55"
+       style="font-size:11px;font-family:Arial;fill:#324b64"
+       textLength="26.92"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3325">Lebih</text>
+    <text
+       x="430.14001"
+       y="182.55"
+       style="font-size:11px;font-family:Arial;fill:#324b64"
+       textLength="39.16"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3327">bahagia</text>
+    <text
+       x="472.37"
+       y="182.55"
+       style="font-size:11px;font-family:Arial;fill:#324b64"
+       textLength="11"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3329">→</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwzNjAuMDA=)"
+     id="g3441"
+     transform="translate(-7.4061165,-6.9176177)">
+    <text
+       x="60.32"
+       y="56.77"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3333">0</text>
+    <text
+       x="187.47"
+       y="56.77"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="21.42"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3335">0.25</text>
+    <text
+       x="314.62"
+       y="56.77"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="15.3"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3337">0.5</text>
+    <text
+       x="441.76999"
+       y="56.77"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="21.42"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3339">0.75</text>
+    <text
+       x="568.90997"
+       y="56.77"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3341">1</text>
+    <polyline
+       points="60.32,323.50 60.32,61.70 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3343" />
+    <text
+       x="7.0900002"
+       y="312.04001"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="26.91"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3345">Metal</text>
+    <text
+       x="7.0900002"
+       y="286.37"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="48.299999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3347">Electronic</text>
+    <text
+       x="7.0900002"
+       y="260.70001"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="22.620001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3349">Jazz</text>
+    <text
+       x="7.0900002"
+       y="235.03999"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="22.620001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3351">R&amp;B</text>
+    <text
+       x="7.0900002"
+       y="209.37"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="19.58"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3353">Pop</text>
+    <text
+       x="7.0900002"
+       y="183.7"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="25.08"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3355">Punk</text>
+    <text
+       x="7.0900002"
+       y="158.03999"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="25.059999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3357">Rock</text>
+    <text
+       x="7.0900002"
+       y="132.37"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="37.919998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3359">Hip hop</text>
+    <text
+       x="7.0900002"
+       y="106.71"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="41.599998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3361">Dangdut</text>
+    <text
+       x="7.0900002"
+       y="81.040001"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="38.540001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3363">Reggae</text>
+    <polyline
+       points="57.58,308.10 60.32,308.10 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3365" />
+    <polyline
+       points="57.58,282.43 60.32,282.43 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3367" />
+    <polyline
+       points="57.58,256.76 60.32,256.76 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3369" />
+    <polyline
+       points="57.58,231.10 60.32,231.10 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3371" />
+    <polyline
+       points="57.58,205.43 60.32,205.43 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3373" />
+    <polyline
+       points="57.58,179.77 60.32,179.77 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3375" />
+    <polyline
+       points="57.58,154.10 60.32,154.10 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3377" />
+    <polyline
+       points="57.58,128.43 60.32,128.43 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3379" />
+    <polyline
+       points="57.58,102.77 60.32,102.77 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3381" />
+    <polyline
+       points="57.58,77.10 60.32,77.10 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline3383" />
+    <text
+       x="7.0900002"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="52.080002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3385">Rata-rata</text>
+    <text
+       x="62.639999"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="38.900002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3387">valensi</text>
+    <text
+       x="105.01"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="51.41"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3389">lagu-lagu</text>
+    <text
+       x="159.89"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="27.09"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3391">yang</text>
+    <text
+       x="190.46001"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="31.959999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3393">dipilih</text>
+    <text
+       x="225.89"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="9.7299995"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3395">di</text>
+    <text
+       x="239.09"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="38.200001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3397">Spotify</text>
+    <text
+       x="280.76001"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="45.84"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3399">menurut</text>
+    <text
+       x="330.06"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="31.950001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3401">genre</text>
+    <text
+       x="365.48999"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="41.68"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3403">populer</text>
+    <text
+       x="410.64001"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="34.73"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3405">utama</text>
+    <text
+       x="7.0900002"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="56.740002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3407">Dangdut</text>
+    <text
+       x="67.709999"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="71.529999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3409">cenderung</text>
+    <text
+       x="143.13"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="64.550003"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3411">terdengar</text>
+    <text
+       x="211.57001"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="32.650002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3413">lebih</text>
+    <text
+       x="248.11"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="45.860001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3415">positif,</text>
+    <text
+       x="297.85001"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="70.019997"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3417">sementara</text>
+    <text
+       x="371.76001"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="25.67"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3419">jazz</text>
+    <text
+       x="401.32001"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="32.650002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3421">lebih</text>
+    <text
+       x="437.85999"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="36.549999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3423">sedih</text>
+    <text
+       x="7.0900002"
+       y="340.98001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="39.68"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3425">Sumber:</text>
+    <text
+       x="49.68"
+       y="340.98001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="35.009998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3427">Spotify;</text>
+    <text
+       x="87.599998"
+       y="340.98001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="35.009998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3429">analisis</text>
+    <text
+       x="125.53"
+       y="340.98001"
+       style="font-style:italic;font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="42.029999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3431">Katadata</text>
+    <text
+       x="7.0900002"
+       y="350.70001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="30.92"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3433">Grafik:</text>
+    <text
+       x="40.919998"
+       y="350.70001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="86.370003"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3435">Katadata/Dzulfiqar</text>
+    <text
+       x="130.21001"
+       y="350.70001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="30.35"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3437">Fathur</text>
+    <text
+       x="163.47"
+       y="350.70001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="39.689999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text3439">Rahman</text>
+  </g>
+</svg>
