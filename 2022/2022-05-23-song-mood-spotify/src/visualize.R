@@ -1,7 +1,6 @@
-dirYear <- "2022"
-dirProject <- "2022-05-25-spotify-song-mood"
+pathProject <- "2022/2022-05-23-song-mood-spotify"
 
-here::i_am(paste(dirYear, dirProject, "src", "visualize.R", sep = "/"))
+here::i_am(paste(pathProject, "src", "visualize.R", sep = "/"))
 
 set.seed(12345)
 
@@ -12,22 +11,15 @@ library(conflicted)
 library(here)
 library(tidyverse)
 library(ggbeeswarm)
+library(paletteer)
 library(ggtext)
 library(dfrtheme)
 library(patchwork)
 
 
-# Plot ----
+# Helper ----
 
-# The color palettes:
-# library(paletteer) 
-# paletteer_d("nord::lake_superior")
-# paletteer_d("nord::silver_mine")
-
-
-## Helper ----
-
-scale_fill_lake_superior <- function(plot) {
+scale_fill_lake_superior <- function() {
   ggplot2::scale_fill_gradient2(
     low = "#C87D4BFF",
     mid = "grey",
@@ -53,17 +45,20 @@ clean_genre_lab <- function(data) {
 }
 
 
+# Palette ----
+ 
+spotifyPalettePrimary <- paletteer_d("nord::lake_superior")
+spotifyPaletteSecondary <-  paletteer_d("nord::silver_mine")
+
+
+# Plot ----
+
 ## Playlist of top songs ----
 
 ### Mean valence of top song playlists by country ----
 
 topSongValenceMean <- read_csv(
-  here(
-    dirYear,
-    dirProject,
-    "result",
-    "playlist-top-song-valence-mean.csv"
-  )
+  here(pathProject, "result", "playlist-top-song-valence-mean.csv")
 )
 
 topSongValenceMeanPrep <- topSongValenceMean |> 
@@ -80,11 +75,11 @@ captionTopSong <- paste0(
 )
 
 plotTopSongValenceMean <- ggplot(
-  data = topSongValenceMeanPrep,
-  mapping = aes(x = valence_mean, y = "y")
+  topSongValenceMeanPrep,
+  aes(valence_mean, "y")
 ) +
   geom_quasirandom(
-    mapping = aes(fill = valence_mean),
+    aes(fill = valence_mean),
     groupOnX = FALSE,
     size = 4.5,
     pch = 21,
@@ -98,10 +93,10 @@ plotTopSongValenceMean <- ggplot(
       y = c("y", "y"),
       label = c("&larr; Lebih sedih", "Lebih bahagia &rarr;")
     ),
-    mapping = aes(x = x, y = y, label = label),
-    nudge_y = 0.45,
+    mapping = aes(x, y, label = label),
     size = dfr_convert_font_size(),
-    color = c("#C87D4BFF", "#324B64FF"),
+    nudge_y = 0.45,
+    color = c(spotifyPalettePrimary[[3]], spotifyPalettePrimary[[5]]),
     fontface = "bold",
     label.color = NA,
     label.padding = unit(0, "cm")
@@ -112,10 +107,10 @@ plotTopSongValenceMean <- ggplot(
       y = c("y", "y"),
       label = c("Indonesia", "Brasil")
     ),
-    mapping = aes(x = x, y = y, label = label),
-    nudge_y = -0.035,
+    mapping = aes(x, y, label = label),
     size = dfr_convert_font_size(),
     color = "#757575",
+    nudge_y = -0.035,
     label.size = NA,
     label.padding = unit(0, "cm")
   ) +
@@ -145,13 +140,8 @@ plotTopSongValenceMean <- ggplot(
   )
 
 ggsave(
+  here(pathProject, "result", "playlist-top-song-valence-mean.svg"),
   plot = plotTopSongValenceMean,
-  here(
-    dirYear,
-    dirProject,
-    "result",
-    "playlist-top-song-valence-mean.svg"
-  ),
   width = 8,
   height = 4.5
 )
@@ -161,8 +151,7 @@ ggsave(
 
 topSongValenceDanceability <- read_csv(
   here(
-    dirYear,
-    dirProject,
+    pathProject,
     "result",
     "playlist-top-song-idn-mys-wld-valence-danceability.csv"
   )
@@ -177,8 +166,8 @@ topSongValenceDanceabilityPrep <- topSongValenceDanceability |>
   )
 
 plotTopSongSubValenceDist <- ggplot(
-  data = topSongValenceDanceabilityPrep,
-  mapping = aes(x = valence, fill = ..x..)
+  topSongValenceDanceabilityPrep,
+  aes(valence, fill = ..x..)
 ) +
   geom_histogram(
     binwidth = 0.1,
@@ -209,8 +198,8 @@ plotTopSongSubValenceDist <- ggplot(
   )
 
 plotTopSongSubDanceabilityDist <- ggplot(
-  data = topSongValenceDanceabilityPrep,
-  mapping = aes(x = danceability, fill = ..x..)
+  topSongValenceDanceabilityPrep,
+  aes(danceability, fill = ..x..)
 ) +
   geom_histogram(
     binwidth = 0.075,
@@ -229,9 +218,9 @@ plotTopSongSubDanceabilityDist <- ggplot(
     position = "right"
   ) +
   scale_fill_gradient2(
-    low = "#4B644BFF",
+    low = spotifyPaletteSecondary[[1]],
     mid = "grey",
-    high = "#647D96FF",
+    high = spotifyPaletteSecondary[[5]],
     midpoint = 0.5
   ) +
   facet_wrap(~ playlist_top_song) +
@@ -263,13 +252,12 @@ pwTopSongValenceDanceabilityDist <- plotTopSongSubValenceDist +
   )
 
 ggsave(
-  plot = pwTopSongValenceDanceabilityDist,
   here(
-    dirYear,
-    dirProject,
+    pathProject,
     "result",
     "playlist-top-song-idn-mys-wld-valence-danceability-distribution.svg"
   ),
+  plot = pwTopSongValenceDanceabilityDist,
   width = 8,
   height = 6.5
 )
@@ -280,12 +268,7 @@ ggsave(
 ### Mean valence of major popular genre playlists ----
 
 genreValenceMean <- read_csv(
-  here(
-    dirYear,
-    dirProject,
-    "result",
-    "playlist-major-genre-valence-mean.csv"
-  )
+  here(pathProject, "result", "playlist-major-genre-valence-mean.csv")
 )
 
 genreValenceMeanPrep <- genreValenceMean |>
@@ -293,20 +276,20 @@ genreValenceMeanPrep <- genreValenceMean |>
   mutate(genre = fct_reorder(genre, valence_mean))
 
 plotGenreValenceMean <- ggplot(
-  data = genreValenceMeanPrep,
-  mapping = aes(x = valence_mean, y = genre)
+  genreValenceMeanPrep,
+  aes(valence_mean, genre)
 ) +
   geom_col(
-    mapping = aes(fill = valence_mean),
+    aes(fill = valence_mean),
     width = 0.6, 
     color = "white",
     show.legend = FALSE
   ) +
   geom_richtext(
     data = tibble(x = 0.75, y = "Punk", label = "Lebih bahagia &rarr;"),
-    mapping = aes(x = x, y = y, label = label),
+    mapping = aes(x, y, label = label),
     size = dfr_convert_font_size(),
-    color = "#324B64FF",
+    color = spotifyPalettePrimary[[5]],
     label.color = NA,
     label.padding = unit(0, "cm")
   ) +
@@ -339,13 +322,8 @@ plotGenreValenceMean <- ggplot(
   )
 
 ggsave(
+  here(pathProject, "result", "playlist-major-genre-valence-mean.svg"),
   plot = plotGenreValenceMean,
-  here(
-    dirYear,
-    dirProject,
-    "result",
-    "playlist-major-genre-valence-mean.svg"
-  ),
   width = 8,
   height = 5
 )
@@ -355,8 +333,7 @@ ggsave(
 
 genreAnnualValenceMean <- read_csv(
   here(
-    dirYear,
-    dirProject,
+    pathProject,
     "result",
     "playlist-major-genre-valence-mean-per-annum.csv"
   )
@@ -365,11 +342,11 @@ genreAnnualValenceMean <- read_csv(
 genreAnnualValenceMeanPrep <- genreAnnualValenceMean |> clean_genre_lab()
 
 plotGenreAnnualValenceMean <- ggplot(
-  data = genreAnnualValenceMeanPrep,
-  mapping = aes(x = track_album_release_year, y = valence_mean)
+  genreAnnualValenceMeanPrep,
+  aes(track_album_release_year, valence_mean)
 ) +
   geom_point(
-    mapping = aes(fill = valence_mean),
+    aes(fill = valence_mean),
     size = 1.75,
     pch = 21,
     color = "white",
@@ -377,7 +354,7 @@ plotGenreAnnualValenceMean <- ggplot(
     show.legend = FALSE
   ) +
   geom_smooth(
-    mapping = aes(color = ..y..),
+    aes(color = ..y..),
     method = "loess",
     se = FALSE,
     lwd = 1.25,
@@ -385,7 +362,7 @@ plotGenreAnnualValenceMean <- ggplot(
   ) +
   geom_text(
     data = tibble(x = 1985, y = 0.6, label = "Garis tren", genre = "Dangdut"),
-    mapping = aes(x = x, y = y, label = label),
+    mapping = aes(x, y, label = label),
     nudge_x = -20,
     size = dfr_convert_font_size(),
     color = "#757575"
@@ -404,9 +381,9 @@ plotGenreAnnualValenceMean <- ggplot(
   ) +
   scale_fill_lake_superior() +
   scale_color_gradient2(
-    low = "#C87D4BFF",
+    low = spotifyPalettePrimary[[3]],
     mid = "grey",
-    high = "#324B64FF",
+    high = spotifyPalettePrimary[[5]],
     midpoint = 0.5
   ) +
   labs(
@@ -430,13 +407,12 @@ plotGenreAnnualValenceMean <- ggplot(
   )
 
 ggsave(
-  plot = plotGenreAnnualValenceMean,
   here(
-    dirYear,
-    dirProject,
+    pathProject,
     "result",
     "playlist-major-genre-valence-mean-per-annum.svg"
   ),
+  plot = plotGenreAnnualValenceMean,
   width = 10,
   height = 5.75
 )

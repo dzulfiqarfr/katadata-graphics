@@ -1,7 +1,6 @@
-dirYear <- "2022"
-dirProject <- "2022-05-23-spotify-song-mood"
+pathProject <- "2022/2022-05-23-song-mood-spotify"
 
-here::i_am(paste(dirYear, dirProject, "src", "analyze.R", sep = "/"))
+here::i_am(paste(pathProject, "src", "analyze.R", sep = "/"))
 
 
 # Packages ----
@@ -19,10 +18,9 @@ library(spotifyr)
 ## Playlists of weekly top songs by country/region ----
 
 pathTopSong <- here(
-  dirYear, 
-  dirProject, 
+  pathProject,
   "data",
-  "spotify-top-song-playlist.csv"
+  "spotify-top-song-playlist-2022-05-20-raw.csv"
 )
 
 if (!file.exists(pathTopSong)) {
@@ -118,8 +116,7 @@ topSongValenceMean <- topSongTrackWithFeatureClean |>
 topSongValenceMean |> 
   write_csv(
     here(
-      dirYear,
-      dirProject,
+      pathProject,
       "result",
       "playlist-top-song-valence-mean.csv"
     )
@@ -135,8 +132,7 @@ topSongTrackWithFeatureSub <- topSongTrackWithFeatureClean |>
 topSongTrackWithFeatureSub |> 
   write_csv(
     here(
-      dirYear,
-      dirProject,
+      pathProject,
       "result",
       "playlist-top-song-idn-mys-wld-valence-danceability.csv"
     )
@@ -151,8 +147,7 @@ topSongValenceDist <- topSongTrackWithFeatureSub |>
 topSongValenceDist |> 
   write_csv(
     here(
-      dirYear,
-      dirProject,
+      pathProject,
       "result",
       "playlist-top-song-idn-mys-wld-valence-distribution.csv"
     )
@@ -167,8 +162,7 @@ topSongDanceabilityDist <- topSongTrackWithFeatureSub |>
 topSongDanceabilityDist |> 
   write_csv(
     here(
-      dirYear,
-      dirProject,
+      pathProject,
       "result",
       "playlist-top-song-idn-mys-wld-danceability-distribution.csv"
     )
@@ -178,10 +172,9 @@ topSongDanceabilityDist |>
 ## Playlists of major popular genres ----
 
 pathGenre <- here(
-  dirYear,
-  dirProject,
+  pathProject,
   "data",
-  "spotify-major-popular-genre-playlist.csv"
+  "spotify-major-popular-genre-playlist-2022-05-20-raw.csv"
 )
 
 if (!file.exists(pathGenre)) {
@@ -274,8 +267,8 @@ if (!file.exists(pathGenre)) {
     select(track.id) |> 
     mutate(index = row_number()) |> 
     left_join(indexGroup, by = "index") |> 
-    fill(index_group) %>%
-    split(.$index_group) |> 
+    fill(index_group) |> 
+    split(~ index_group) |> 
     map(pull, track.id)
   
   genreFeatureRaw <- genreTrackID |> 
@@ -324,8 +317,7 @@ genreValenceMean <- genreTrackWithFeatureClean |>
 genreValenceMean |> 
   write_csv(
     here(
-      dirYear,
-      dirProject,
+      pathProject,
       "result",
       "playlist-major-genre-valence-mean.csv"
     )
@@ -347,8 +339,7 @@ genreAnnualValenceMean <- genreTrackWithFeatureDateClean |>
 genreAnnualValenceMean |> 
   write_csv(
     here(
-      dirYear,
-      dirProject,
+      pathProject,
       "result",
       "playlist-major-genre-valence-mean-per-annum.csv"
     )
