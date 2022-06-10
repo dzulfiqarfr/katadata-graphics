@@ -9,7 +9,7 @@ Read (in Indonesian): [Mengapa Lonjakan Harga Pangan Paling Memukul Orang Miskin
 
 Data | Source |  
 ---- | ------ |  
-Share of households with food expenditure greater than 65% by city and regency | [Food Security Agency (BKP)](http://app2.badanpangan.go.id/) |  
-Poverty rate by city and regency | [BKP](http://app2.badanpangan.go.id/) |  
-CPI of food, beverage and tobacco | [Statistics Indonesia (BPS)](https://bps.go.id/indicator/3/1905/1/indeks-harga-konsumen-2018-100-menurut-kelompok-dan-sub-kelompok-01-makanan-minuman-dan-tembakau.html) |  
-Share of poor households who receive noncash food assistance by province | [BPS](https://bps.go.id/publication/2021/11/30/9c24f43365d1e41c8619dfe4/penghitungan-dan-analisis-kemiskinan-makro-indonesia-tahun-2021.html) |  
+[Households with food expenditure greater than 65 percent, by city/regency](http://app2.badanpangan.go.id/) | Food Security Agency (BKP) |  
+[Poverty rate, by city and regency](http://app2.badanpangan.go.id/) | BKP |  
+[CPI of food, beverage and tobacco](https://bps.go.id/indicator/3/1905/1/indeks-harga-konsumen-2018-100-menurut-kelompok-dan-sub-kelompok-01-makanan-minuman-dan-tembakau.html) | Statistics Indonesia (BPS) |  
+[Poor households who receive noncash food assistance, by province, 2021](https://bps.go.id/publication/2021/11/30/9c24f43365d1e41c8619dfe4/penghitungan-dan-analisis-kemiskinan-makro-indonesia-tahun-2021.html) | BPS |  

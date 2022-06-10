@@ -9,7 +9,7 @@ Read (in Indonesian): [Daerah Mana Paling Tertekan Lonjakan Harga Minyak Goreng?
 
 Data | Source |  
 ---- | ------ |  
-Cooking oil prices by category and province | [Trade Ministry](https://ews.kemendag.go.id/) |  
-Cooking oil consumption by city/regency | [Statistics Indonesia (BPS)](https://bps.go.id/indicator/5/2103/1/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html) |  
-Cooking oil expenditure by city/regency | [BPS](https://bps.go.id/indicator/5/2119/1/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html) |  
-Household members by province | [BPS](https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/bmc3elVuWGROc3JRL3RPQTBrU2dadz09/da_03/1) |  
+[Cooking oil prices, by category and province](https://ews.kemendag.go.id/) | Trade Ministry |  
+[Cooking oil consumption per capita, by city/regency](https://bps.go.id/indicator/5/2103/1/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html) | Statistics Indonesia (BPS) |  
+[Cooking oil expenditure per capita, by city/regency](https://bps.go.id/indicator/5/2119/1/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html) | BPS |  
+[Household size, by province](https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/bmc3elVuWGROc3JRL3RPQTBrU2dadz09/da_03/1) | BPS |  
